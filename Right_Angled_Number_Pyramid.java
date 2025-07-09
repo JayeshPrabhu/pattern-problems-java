@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-
+import java.util.Scanner;
 public class Right_Angled_Number_Pyramid {
 
     public static void main(String[] args) {
